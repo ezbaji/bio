@@ -51,5 +51,9 @@ a:hover {
 
 h2{
     padding-left: 10px;
-    background-color: gray;
+    background-color: lightslategray;
+}
+.footer{
+    font-size: small;
+    color: darkslategray;
 }
